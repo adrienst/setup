@@ -19,7 +19,7 @@
           "type": "text"
         },
         {
-          "background": "#464646",
+          "background": "#000000",
           "foreground": "p:white",
           "properties": {
             "windows": "\ue62a",
